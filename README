@@ -1,0 +1,1 @@
+Dockerfile for installing postgis in a postgres image, and enabling postgis and trgm extensions
